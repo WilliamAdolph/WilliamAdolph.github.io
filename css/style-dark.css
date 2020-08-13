@@ -173,6 +173,9 @@ em {
 .fa-weixin:before {
   content: "\e013";
 }
+.fa-wechat:before {
+  content: "\e013";
+}
 .fa-github:before {
   content: "\e014";
 }
